@@ -1,0 +1,12 @@
+.moviecard-con{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(223, 223, 223,0.7);
+    border-radius: 12px;
+    width: 300px;
+    height: 500px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 6px;
+    margin: 8px;
+}
